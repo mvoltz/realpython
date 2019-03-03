@@ -44,3 +44,14 @@ print('{} has {} tentacles, {} laser eyes, and observes {} laws of robotics.'\
 
 # Yep.
 
+'''
+There are other ways to use {}'s 
+print('{name} has {tentacles} tentacles..
+
+python3.6 adds formatted string literals too
+print(f'{name} has {tentacles} tentacles...
+
+I don't really get formatted strings yet, as compared to standard strings.
+'''
+
+
